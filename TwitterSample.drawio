@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-29T00:10:41.470Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="plQSUR9nbZxTIoiRXp1m" version="18.1.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-29T00:11:13.875Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="m5weXUsdNZ1R3Vjd_-vG" version="18.1.3" type="github" pages="3">
   <diagram id="C5PbUCTnn3D87O1RsAEE" name="ログイン画面">
     <mxGraphModel dx="475" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
           <mxGeometry x="260" y="150" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IMQ4Je4VwW68iUQFmFvS-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="280" y="110" width="20" height="20" as="geometry" />
+          <mxGeometry x="270" y="110" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IMQ4Je4VwW68iUQFmFvS-27" value="ロゴ" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="365" y="100" width="30" height="30" as="geometry" />
